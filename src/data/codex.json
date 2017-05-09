@@ -1,0 +1,36 @@
+{
+	"motivate me": [
+		"i need to be motivated",
+		"i am sad",
+		"if only i could be motivated",
+		"i want motivation",
+		"the team needs to be motivated"
+	],
+	"youtube me {{1}}": [
+		"youtube this {{1}}",
+		"youtube {{1}}",
+		"find {{1}} on youtube",
+		"{{1}} on youtube",
+		"youtube search {{1}}",
+		"search {{1}} on youtube"
+	],
+	"phab new {{1}} {{2}}": [
+		"phab new task {{2}} in {{1}}",
+		"phab add task {{2}} in {{1}}",
+		"phab {{1}} needs {{2}}",
+		"new phab task in {{1}}: {{2}}"
+	],
+	"phab {{1}} for {{2}}": [
+		"phab {{1}} on {{2}}",
+		"phab assign {{1}} to {{2}}",
+		"phab {{2}} wants to work on {{1}}",
+		"phabricator! make {{2}} work on {{1}}"
+	],
+	"phab {{1}} sub {{2}}": [
+		"phab {{1}} subscribe {{2}}",
+		"phab subscribe {{2}} to {{1}}",
+		"phab {{2}} should follow {{1}}",
+		"phab {{2}} should look at {{1}}",
+		"phab make {{2}} see {{1}}"
+	]
+}
